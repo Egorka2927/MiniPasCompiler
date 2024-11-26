@@ -1,3 +1,5 @@
+**THIS IS A UNIVERSITY PROJECT**
+
 Implemented semantic checks
 
 - Check if a variable is undeclared
